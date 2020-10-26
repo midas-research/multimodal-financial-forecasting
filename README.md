@@ -1,10 +1,7 @@
 # Multimodal Multi-task Financial Risk Forecasting
 This codebase contains the python scripts for the ACMMM'20 paper [[Multimodal Multi-Task Financial Risk Forecasting](https://dl.acm.org/doi/10.1145/3394171.3413752)].
 
-# ACM_MM_2020_Finance
-The code for our submission titled  **Multimodal Multi-Task Financial Risk Forecasting** [[Paper](https://dl.acm.org/doi/10.1145/3394171.3413752)] which got accepted for **oral** presentation at **ACM Multimedia 2020**
-
-## Cite
+## Citation
 If our work was helpful in your research, please kindly cite this work:
 ```
 @inproceedings{sawhneymultimodal2020,
